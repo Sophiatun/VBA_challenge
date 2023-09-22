@@ -13,3 +13,4 @@ In this challenge, I created VBA scripting to analyze generated stock market dat
 # Lastly, I made sure to run my scripts on every worksheet.
 
 # Reference
+https://github.com/Sophiatun/VBA_challenge/blob/main/VBA_scripts.docx
